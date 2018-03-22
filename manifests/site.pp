@@ -1,6 +1,6 @@
 node default {
 }
 
-node 'osboxes.us.asml.com' {
+node 'master.puppet.vm' {
   include role::master_server
 }
